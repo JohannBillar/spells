@@ -1,0 +1,26 @@
+{
+  "name": "spells",
+  "version": "1.0.0",
+  "description": "Get random spells",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohannBillar/spells.git"
+  },
+  "keywords": [
+    "random",
+    "spells"
+  ],
+  "author": "Johann Billar <johann@trials.ai> (http://billar.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohannBillar/spells/issues"
+  },
+  "homepage": "https://github.com/JohannBillar/spells#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
