@@ -1,1 +1,1 @@
-# spells
+# Get random spells
