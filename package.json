@@ -1,5 +1,5 @@
 {
-  "name": "spells",
+  "name": "hp-spells",
   "version": "1.0.0",
   "description": "Get random spells",
   "main": "src/index.js",
@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/JohannBillar/spells.git"
   },
-  "keywords": [
-    "random",
-    "spells"
-  ],
+  "keywords": ["random", "spells"],
   "author": "Johann Billar <johann@trials.ai> (http://billar.io/)",
   "license": "MIT",
   "bugs": {
